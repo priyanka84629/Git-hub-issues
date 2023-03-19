@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(161, 240, 240);
+}
+h1{
+  text-align: center;
+}
+
+#issue{
+    margin: 100px;
+    height: 350px;
+    width: 400px;
+    margin-bottom: 10px;
+    font-size: larger;
+  }
+  
+  
+  #load_prev{
+    width: 80px;
+    height: 40px;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    position: absolute;
+    left: 548px;
+    background-color: blueviolet;
+    border-radius: 5px;
+  
+  }
+  
+  #load_next{
+    width: 80px;
+    height: 40px;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    position: absolute;
+    left: 776px;
+    background-color: blueviolet;
+    border-radius: 5px;
+  }
+
+  #page_btn{
+    position: relative;
+  
+  }
+
+  #page_no{
+    font-size: large;
+    position: relative;
+  }
